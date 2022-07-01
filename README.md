@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can also download and run this app locally.
+* Needs composer to be installed
 
 1) Clone the repo:
 ```
