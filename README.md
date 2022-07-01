@@ -12,10 +12,10 @@ git clone https://github.com/kwanda9700/form_blog.git Form
 
 2) Create `.env` file from the `.env.example` file by running this in the terminal:
 ```
-`composer run-script post-root-package-install`
+composer run-script post-root-package-install
 ```
 
-3) Setup database credentials on the .env variables and create a database on phpMyAdmin
+3) Setup database credentials on the `.env` and create a database on phpMyAdmin
 
 4) Update Composer
 ``` 
