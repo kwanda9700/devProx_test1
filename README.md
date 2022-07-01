@@ -10,7 +10,7 @@
 git clone https://github.com/kwanda9700/form_blog.git Form
 ```
 
-2) Create `.env` file from the example file by running this in the terminal:
+2) Create `.env` file from the .env.example file by running this in the terminal:
 ```
 composer run-script post-root-package-install
 ```
