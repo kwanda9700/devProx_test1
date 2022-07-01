@@ -2,7 +2,8 @@
 
 ## Installation
 
-* Needs composer to be installed
+* Needs composer to be installed, for windows
+ https://getcomposer.org/Composer-Setup.exe
 
 1) Clone the repo:
 ```
