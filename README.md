@@ -1,6 +1,4 @@
-# form_blog
-
-## Test 1
+# Test 1
 Create an HTML form with the following input fields to allow for the capturing of
 data into a database:
 Name, Surname, Id No, Date of Birth, POST button, CANCEL button
